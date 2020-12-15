@@ -7,3 +7,5 @@
 
 
 [![Gabriella's github stats](https://github-readme-stats.vercel.app/api?username=gmiesner&count_private=true&show_icons=true)](https://github.com/gmiesner/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=gmiesner)](https://github.com/gmiesner/github-readme-stats)
